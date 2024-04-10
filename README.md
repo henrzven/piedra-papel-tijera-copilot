@@ -1,13 +1,13 @@
-# Build a Rock, Paper, Scissors Game with GitHub Copilot
+# Construye un Juego de Piedra, Papel o Tijera con GitHub Copilot.
 
-## Description
+## Descripción.
 This is a self-guided tutorial to help folks learn how to use GitHub Copilot. In this project you will find: 
 * a `main.py` file with no contents
 * a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created
 * a CodeTour to guide the developer through using GitHub Copilot to develop a rock, paper, scissors game. 
 
-## To complete this tutorial, you will need:
-* Access to [GitHub Copilot](https://github.com/features/copilot)
+## Para completar este tutorial necesitas:
+* Acceso a [GitHub Copilot](https://github.com/features/copilot)
 
 ## How does this work?
 The CodeTour prompts developers to write comments and lines of code that trigger GitHub Copilot to generate code to create a rock, paper, scissors game.
